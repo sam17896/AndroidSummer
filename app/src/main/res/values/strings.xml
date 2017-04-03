@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">B-Tendance</string>
+    <string name="test">"B-Tendance"</string>
+    <string name="URI">imgDecodableString</string>
+    <string name="Add_new">Add new</string>
+    <string name="Email">"Email"</string>
+    <string name="Name">"Name"</string>
+    <string name="FathersName">"FathersName"</string>
+    <string name="RollNumber">"RollNumber"</string>
+    <string name="University">"University"</string>
+    <string name="Degree">"Degree"</string>
+    <string name="PhoneNumber">"PhoneNumber"</string>
+</resources>
